@@ -9,7 +9,7 @@ applications:
           commands:
             - echo "No build steps required"
       artifacts:
-        baseDirectory: storybook-static
+        baseDirectory: /
         files:
           - '**/*'
       cache:
