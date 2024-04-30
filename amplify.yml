@@ -1,0 +1,16 @@
+version: 1
+applications:
+  - frontend:
+      phases:
+        preBuild:
+          commands:
+            - echo "No pre-build steps"
+        build:
+          commands:
+            - echo "No build steps required"
+      artifacts:
+        baseDirectory: storybook-static
+        files:
+          - '**/*'
+      cache:
+        paths: []
