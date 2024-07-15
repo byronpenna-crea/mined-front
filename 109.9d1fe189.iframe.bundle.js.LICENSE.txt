@@ -1,0 +1,12 @@
+/*!
+ * Quill Editor v1.3.7
+ * https://quilljs.com/
+ * Copyright (c) 2014, Jason Chen
+ * Copyright (c) 2013, salesforce.com
+ */
+
+/**
+ * @license Angular v15.2.9
+ * (c) 2010-2022 Google LLC. https://angular.io/
+ * License: MIT
+ */
